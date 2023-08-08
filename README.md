@@ -16,3 +16,7 @@ pip  install html5lib
 網路處理
 
 pip  install requests
+
+
+pip install flask 
+pip install line-bot-sdk
